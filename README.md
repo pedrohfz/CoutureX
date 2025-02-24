@@ -3,8 +3,9 @@ CoutureX é uma plataforma de design de moda em 3D que combina alta-costura e te
 
 # Dados do Grupo
 
-Desenvolvimento de Sistemas II
 Universidade Presbiteriana Mackenzie
+
+Materia: Desenvolvimento de Sistemas II
 
 Integrantes:
 
